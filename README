@@ -1,0 +1,3 @@
+# knapsack
+
+Four different methods of "solving" the classic Knapsack problem: Brute Force, Greedy, Dynamic, Branch and Bound.
